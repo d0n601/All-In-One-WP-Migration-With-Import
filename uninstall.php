@@ -24,9 +24,9 @@
  */
 
 // Include plugin bootstrap file
-require_once dirname( __FILE__ ) .
-	DIRECTORY_SEPARATOR .
-	'all-in-one-wp-migration.php';
+require_once dirname(__FILE__) .
+    DIRECTORY_SEPARATOR .
+    'all-in-one-wp-migration-wi.php';
 
 /**
  * Trigger Uninstall process only if WP_UNINSTALL_PLUGIN is defined

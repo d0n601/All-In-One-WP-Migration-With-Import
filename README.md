@@ -6,7 +6,7 @@ This repository originates from [Servmask](https://servmask.com/)'s [All-In-One-
 
 
 ### Why?
-This is of the last version of the [All In One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) plugin to include import functionality functionality, with small modifications made by me which are stated below. Versions after this were also stripped of WP-CLI functionality. By modifying this freely available older version, users can empower themselves to migrate larger sites than they otherwise would be able to. Use at your own risk, and delete the plugin post migration as this older version contains [unpatched security vulnerabilities](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/all-in-one-wp-migration). 
+This repository is a fork of the last version of the [All In One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) plugin that easily allows modification of the import file size, and it includes those modifications. By modifying this freely available older version, users can empower themselves to migrate larger sites than they otherwise would be able to. Use at your own risk, and delete the plugin post migration as this older version contains [unpatched security vulnerabilities](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/all-in-one-wp-migration). 
 
 
 ### How?
